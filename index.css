@@ -1,0 +1,216 @@
+body{
+    background-color:#291e88bf;
+    padding:0px;
+    margin:0px;
+}
+
+.main_header {
+    /* border: 2px solid; */
+    height: 60px;
+}
+
+
+.logo {
+    float: left;
+    padding: 5px;
+    width: 30%;
+    font-size: 40px;
+    margin-left: 20%;
+    color: white;
+}
+
+.Features {
+    float: left;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.Works {
+    float: left;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.Our.Team {
+    float: left;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.testimonials {
+    float: left;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.Download {
+    float: left;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    margin-top: 200px;
+    font-size: 35px;
+}
+
+.paragraph {
+    text-align: center;
+    width: 660px;
+    margin-left: 341px;
+    margin-top: -43px;
+}
+
+.button {
+    height: 50px;
+    width: 200px;
+    background-color: orangered;
+    margin-bottom: 100px;
+}
+
+.find_out {
+    margin-left: 550px;
+    margin-top: 50px;
+
+}
+
+.layer_1 {
+    float: left;
+    /* border: 2px solid; */
+    margin-left: 140px;
+    margin-right: 5px;
+
+}
+
+.icon_1 {
+    text-align: center;
+    font-size: 80px;
+}
+
+.note_1 {
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+
+.layer_2 {
+    float: left;
+    /* border: 2px solid; */
+    margin-left: 120px;
+}
+
+.icon_2 {
+    text-align: center;
+    font-size: 80px;
+}
+
+.note_2 {
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+
+.layer_3 {
+    float: left;
+    /* border: 2px solid; */
+    margin-left: 126px;
+}
+
+.icon_3 {
+    text-align: center;
+    font-size: 80px;
+}
+
+.note_3 {
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+
+.row_1 {
+    /* border: 2px solid; */
+    height: 168px;
+    margin-top: 100px;
+}
+
+.nabed{
+    border: 1px solid white;
+    background-color: #ffffff94;
+}
+
+.sub_section {
+    /* border: 2px solid; */
+    height: 600px;
+    margin-top: 100px;
+}
+
+
+
+
+.row_2 {
+    /* border: 2px solid; */
+    height: 300px;
+}
+
+.layer_4 {
+    margin-top: 50px;
+    /* border: 2px solid; */
+    float: left;
+    margin-left: 170px;
+    margin-right: 5px;
+}
+
+.icon_4 {
+    font-size: 80px;
+    text-align: center;
+}
+
+
+
+.note_4 {
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.layer_5 {
+    margin-top: 50px;
+    /* border: 2px solid; */
+    float: left;
+    margin-left: 205px;
+}
+
+.icon_5 {
+    font-size: 80px;
+    text-align: center;
+}
+
+
+.note_5 {
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.layer_6{
+    
+    margin-top: 50px;
+    /* border: 2px solid; */
+    float: left;
+    margin-left: 126px;
+       
+}
+    
+.icon_6 {
+    font-size: 80px;
+    text-align: center;
+}
+    
+.note_6 {
+    font-size: 30px;
+    margin-top: 30px;
+}
